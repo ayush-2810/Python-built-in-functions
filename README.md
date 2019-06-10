@@ -15,3 +15,5 @@ This repository consists some of the basic **python** built in **functions**.
 **ord()** : This function returns the ASCII value of char or integer.
 
 **abs()** : It returns the absolute value of a number.
+
+**all()** : It returns true when all elements in iterable is true.
