@@ -19,3 +19,5 @@ This repository consists some of the basic **python** built in **functions**.
 **all()** : It returns true when all elements in iterable is true.
 
 **format()** : It returns formatted representation of a value.
+
+**max()** : It returns largest element.
