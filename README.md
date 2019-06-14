@@ -21,3 +21,5 @@ This repository consists some of the basic **python** built in **functions**.
 **format()** : It returns formatted representation of a value.
 
 **max()** : It returns largest element.
+
+**min()** : It returns smallest element.
