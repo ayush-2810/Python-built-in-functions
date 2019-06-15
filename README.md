@@ -23,3 +23,5 @@ This repository consists some of the basic **python** built in **functions**.
 **max()** : It returns largest element.
 
 **min()** : It returns smallest element.
+
+**hex()** : It converts to integer to hexadecimal.
