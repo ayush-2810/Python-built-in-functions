@@ -24,4 +24,4 @@ This repository consists some of the basic **python** built in **functions**.
 
 **min()** : It returns smallest element.
 
-**hex()** : It converts to integer to hexadecimal.
+**hex()** : It converts integer to hexadecimal.
