@@ -25,3 +25,5 @@ This **repository** consists some of the basic **python** built in **functions**
 **min()** : It returns smallest element.
 
 **hex()** : It converts integer to hexadecimal.
+
+**slice()** : It creates a slice object specified by range().
