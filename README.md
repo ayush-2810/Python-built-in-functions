@@ -33,3 +33,5 @@ This **repository** consists some of the basic **python** built in **functions**
 **l.count(x)** : This function returns the count of x in the list l.
 
 **frozenset()** : It returns immutable frozenset object.
+
+**chr()** : This function returns the character in python for an ASCII value.
