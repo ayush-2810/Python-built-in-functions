@@ -39,4 +39,6 @@ This **repository** consists some of the basic **python** **built in** **functio
 from **itertools** import **combinations**  
 **list(combinations(arr, 2))** : This function gives all unordered pairs of a list.  
 
-**divmod()** : This functions takes two parameters, and returns a tuple of their quotient and remainder.
+**divmod()** : This functions takes two parameters, and returns a tuple of their quotient and remainder.  
+
+**complex()** : This function creates a complex number.
