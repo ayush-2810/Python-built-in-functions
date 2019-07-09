@@ -43,4 +43,4 @@ from **itertools** import **combinations**
 
 **complex()** : This function creates a complex number.  
 
-exec() This function runs Python code dynamically.
+**exec()** This function runs Python code dynamically.
