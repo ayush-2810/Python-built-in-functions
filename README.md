@@ -49,4 +49,4 @@ from **itertools** import **combinations**
 
 **bisect_left(l,a)** : This function returns the index of element smaller than a in list l.
 
-bisect_right(l,a)-1 : This function returns the index of element smaller than or equal to a in list l.
+**bisect_right(l,a)-1** : This function returns the index of element smaller than or equal to a in list l.
