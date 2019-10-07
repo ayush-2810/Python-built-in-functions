@@ -54,3 +54,5 @@ from **itertools** import **combinations**
 **zip()** : Returns an Iterator of Tuples.
 
 **l=[0]*n** : Declares list with all elements 0 having size n.
+
+set() : Creates a set.
