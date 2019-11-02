@@ -56,3 +56,5 @@ from **itertools** import **combinations**
 **l=[0]*n** : Declares list with all elements 0 having size n.
 
 **set()** : Creates a set.
+
+**all()** : It returns true when all elements in iterable is true.
