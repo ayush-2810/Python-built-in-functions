@@ -11,6 +11,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 **sum(l)** : l is the list of the numbers. The function returns the sum of the numbers present in the list.
 
 **l.index(x)** : This function returns the index element x present in the list l.
+  - **Time complexity** : O(n)
 
 **ord()** : This function returns the ASCII value of char or integer.
 
