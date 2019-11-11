@@ -55,6 +55,7 @@ from **itertools** import **combinations**
   - **Time complexity** : O(nlogn)
 
 **bisect_right(l,a)-1** : This function returns the index of element smaller than or equal to a in list l.
+  - **Time complexity** : O(nlogn)
 
 **zip()** : Returns an Iterator of Tuples.
 
