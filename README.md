@@ -49,6 +49,7 @@ from **itertools** import **combinations**
 **exec()** : This function runs Python code dynamically.
 
 **bisect_right(l,a)** : This function returns the index of element greater than a in list l.
+  - **Time complexity** : O(logn)
 
 **bisect_left(l,a)** : This function returns the index of element smaller than a in list l.
 
