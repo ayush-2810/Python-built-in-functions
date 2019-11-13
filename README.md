@@ -9,6 +9,7 @@ This **repository** consists some of the basic **python** **built in** **functio
   - **Time complexity** : O(nlogn)
 
 **sum(l)** : l is the list of the numbers. The function returns the sum of the numbers present in the list.
+  - **Time complexity** : O(n)
 
 **l.index(x)** : This function returns the index element x present in the list l.
   - **Time complexity** : O(n)
