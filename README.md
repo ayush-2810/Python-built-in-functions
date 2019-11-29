@@ -69,4 +69,7 @@ from **itertools** import **combinations**
 
 **d={}** : Declares dictionary with name d.
 
+popitem()	Removes the last inserted key-value pair.
+
+
 clear()	: Removes all the elements from the dictionary.
