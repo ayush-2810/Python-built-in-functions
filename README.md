@@ -69,8 +69,7 @@ from **itertools** import **combinations**
 
 **d={}** : Declares dictionary with name d.
 
-update()	Updates the dictionary with the specified key-value pairs.
+**update()** :  Updates the dictionary with the specified key-value pairs.
 
 clear()	: Removes all the elements from the dictionary.
 
-update()	Updates the dictionary with the specified key-value pairs.
