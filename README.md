@@ -74,3 +74,6 @@ from **itertools** import **combinations**
 **clear()**	: Removes all the elements from the dictionary
 
 **exec()** : This function runs Python code dynamically.
+
+**sqrt()** : This function is present in the math library used for finding square root of any number.
+
