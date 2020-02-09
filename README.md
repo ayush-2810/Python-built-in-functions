@@ -25,7 +25,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 **max()** : It returns largest element.
   - **Time complexity** : O(n)
 
-**min()** : It returns smallest element.
+**min()** : It returns **smallest** element.
   - **Time complexity** : O(n)
 
 **hex()** : It converts integer to hexadecimal.
