@@ -48,7 +48,7 @@ from **itertools** import **combinations**
 
 **complex()** : This function creates a complex number.  
 
-**exec()** : This function runs Python code dynamically.
+**exec()** : This function runs Python code **dynamically**.
 
 **bisect_right(l,a)** : This function returns the index of element greater than a in list l.
   - **Time complexity** : O(logn)
