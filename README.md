@@ -18,7 +18,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 
 **abs()** : It returns the absolute value of a number.
 
-**all()** : It returns true when all elements in iterable is true.
+**all()** : It returns true when all elements in **iterable** is true.
 
 **format()** : It returns formatted representation of a value.
 
