@@ -30,7 +30,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 
 **hex()** : It converts integer to hexadecimal.
 
-**slice()** : It creates a slice object specified by range().
+**slice()** : It creates a slice object specified by **range()**.
 
 **sqrt()** : This function is present in the math library used for finding square root of any number.
 
