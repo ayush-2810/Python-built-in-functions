@@ -14,7 +14,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 **l.index(x)** : This function returns the index element x present in the list l.
   - **Time complexity** : O(n)
 
-**ord()** : This function returns the ASCII value of char or integer.
+**ord()** : This function returns the **ASCII** value of char or integer.
 
 **abs()** : It returns the **absolute** value of a number.
 
