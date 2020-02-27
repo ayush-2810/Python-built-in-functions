@@ -5,7 +5,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 
 **int(x,2)** : This function is used for converting any string in its binary form to its decimal form.
 
-**list.sort()** : This function is used for sorting the elements of the list in ascendig order.
+**list.sort()** : This function is used for sorting the elements of the list in ascending order.
   - **Time complexity** : O(nlogn)
 
 **sum(l)** : l is the list of the numbers. The function returns the sum of the numbers present in the list.
