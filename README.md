@@ -20,7 +20,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 
 **all()** : It returns true when all elements in **iterable** is true.
 
-**format()** : It returns formatted representation of a value.
+**format()** : It returns formatted representation of a **value**.
 
 **max()** : It returns largest element.
   - **Time complexity** : O(n)
