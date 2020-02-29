@@ -28,7 +28,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 **min()** : It returns **smallest** element.
   - **Time complexity** : O(n)
 
-**hex()** : It converts integer to hexadecimal.
+**hex()** : It converts integer to **hexadecimal**.
 
 **slice()** : It creates a slice object specified by **range()**.
 
