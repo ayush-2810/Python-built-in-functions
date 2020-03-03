@@ -22,7 +22,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 
 **format()** : It returns formatted representation of a **value**.
 
-**max()** : It returns largest element.
+**max()** : It returns **largest** element.
   - **Time complexity** : O(n)
 
 **min()** : It returns **smallest** element.
