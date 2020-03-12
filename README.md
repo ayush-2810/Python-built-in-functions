@@ -37,7 +37,7 @@ This **repository** consists some of the basic **python** **built in** **functio
 **l.count(x)** : This function returns the count of x in the list l.
   - **Time complexity** : O(n)
 
-**frozenset()** : It returns immutable frozenset object.
+**frozenset()** : It returns immutable **frozenset** object.
 
 **chr()** : This function returns the character in python for an ASCII value.
 
