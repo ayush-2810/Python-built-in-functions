@@ -65,7 +65,7 @@ from **itertools** import **combinations**
 
 **set()** : Creates a set.
 
-**all()** : It returns true when all elements in iterable is true.
+**all()** : It returns true when all elements in **iterable** is true.
 
 **d={}** : Declares dictionary with name d.
 
