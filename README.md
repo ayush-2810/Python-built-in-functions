@@ -46,7 +46,7 @@ from **itertools** import **combinations**
 
 **divmod()** : This functions takes two parameters, and returns a tuple of their quotient and remainder.  
 
-**complex()** : This function creates a complex number.  
+**complex()** : This function creates a **complex** number.  
 
 **exec()** : This function runs Python code **dynamically**.
 
