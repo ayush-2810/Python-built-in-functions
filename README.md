@@ -39,7 +39,7 @@ This **repository** contains some of the basic **python** **built in** **functio
 
 **frozenset()** : It returns immutable **frozenset** object.
 
-**chr()** : This function returns the character in python for an ASCII value.
+**chr()** : This function returns the character in python for an **ASCII** value.
 
 from **itertools** import **combinations**  
 **list(combinations(arr, 2))** : This function gives all unordered pairs of a list.  
