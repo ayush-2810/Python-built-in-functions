@@ -71,5 +71,5 @@ from **itertools** import **combinations**
 
 **update()** :  Updates the **dictionary** with the specified key-value pairs.
 
-**clear()**	: Removes all the **elements** from the dictionary
+**clear()**	: Removes all the **elements** from the **dictionary**
 
