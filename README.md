@@ -67,7 +67,7 @@ from **itertools** import **combinations**
 
 **all()** : It returns true when all elements in **iterable** is true.
 
-**d={}** : Declares **dictionary** with name d.
+**d={}** : Declares **dictionary** with name **d**.
 
 **update()** :  Updates the **dictionary** with the specified key-value pairs.
 
