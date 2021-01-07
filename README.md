@@ -32,7 +32,7 @@ This **repository** contains some of the basic **python** **built in** **functio
 
 **slice()** : It creates a slice object specified by **range()**.
 
-**sqrt()** : This function is present in the **math** library used for finding square root of any number.
+**sqrt()** : This function is present in the **math** library used for finding **square root** of any number.
 
 **l.count(x)** : This function returns the count of x in the **list** l.
   - **Time complexity** : O(n)
